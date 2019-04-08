@@ -1,13 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# React Component Reference
-
-- [TwilioVideo](#twiliovideo)
-- [TwilioVideoLocalView](#twiliovideolocalview)
-- [TwilioVideoParticipantView](#twiliovideoparticipantview)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## TwilioVideo
 
 From [`../src/TwilioVideo.js`](../src/TwilioVideo.js)
